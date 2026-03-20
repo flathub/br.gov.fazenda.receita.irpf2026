@@ -3,9 +3,9 @@
 
   - type: extra-data
     filename: AJUST.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/AJUST__20260304_20260318150031.zip
-    size: 1917
-    sha256: 076c686e0738d2526951c508c06bdcab3fe023155068cae1d2504d8f5fa72e8f
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/AJUST__20260304_20260320071527.zip
+    size: 1923
+    sha256: 99fdd62d36d4911beb7512385acfc4caa6e6a4d1a801a69943c588c3124d6285
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/latest.xml
@@ -102,9 +102,9 @@
 
   - type: extra-data
     filename: LINKS.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/LINKS__20260316_20260318150031.zip
-    size: 4579
-    sha256: ccaff4dd9ccebc3e6f3be44424f04d97a9c22739bab5473a86b22c09e22a95e8
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/LINKS__20260319_20260320071527.zip
+    size: 4576
+    sha256: 75beb681a3e6c8329cde70df5ee81223899519d44a5f52fe912793960a8db2fe
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/latest.xml
