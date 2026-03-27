@@ -91,9 +91,9 @@
 
   - type: extra-data
     filename: IDOSO.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/IDOSO__20260220_20260318150031.zip
-    size: 37937
-    sha256: 750816c7214b4fe7f61071902fead77d6eac22502391cfeb7711bcf9be8c1997
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/IDOSO__20260327_20260327071402.zip
+    size: 37959
+    sha256: f6b199f31aa5b2245a36096f287242f95647da8979e09b8f5efdfc2371b1e857
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/latest.xml
