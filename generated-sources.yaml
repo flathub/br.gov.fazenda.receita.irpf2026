@@ -80,9 +80,9 @@
 
   - type: extra-data
     filename: ECA.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/ECA__20260220_20260318150031.zip
-    size: 69187
-    sha256: 74e27ecfde0fb44a15fb2e8f474608524290fe0bfcc7aa434b81dd03c5e0b0e4
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/ECA__20260328_20260328051353.zip
+    size: 69193
+    sha256: 243645ec50f1744d8c08996ef11e27ba490d5785b316fd19c6bd7492b8e3b2d3
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/irpf/update/latest.xml
